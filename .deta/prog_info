@@ -1,0 +1,1 @@
+{"id":"12624795-c6a8-4820-917f-ffa897d32f37","space":24088,"runtime":"python3.9","name":"fastapi-random-person","path":"aq9xr0","project":"b0nhupah","account":"144798365827","region":"us-west-1","deps":["fastapi","faker"],"envs":null,"public":true,"log_level":"debug","cron":""}
